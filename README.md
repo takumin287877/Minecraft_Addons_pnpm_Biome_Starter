@@ -1,4 +1,4 @@
-# Minecraft Addons Biome starter
+# Minecraft Addons pnpm Biome starter
 
 このプロジェクトは [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) の `ts-starter` をベースに、以下の改変を加えたものです：
 
